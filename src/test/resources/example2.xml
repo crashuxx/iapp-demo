@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<epaperRequest>
+    <deviceInfo name="Elephant" id="comp@test">
+        <screenInfo width="1280" height="752" dpi="160"/>
+        <osInfo name="Elephant" version="4.0"/>
+        <appInfo>
+            <newspaperName>bba</newspaperName>
+            <version>5.1</version>
+        </appInfo>
+    </deviceInfo>
+    <getPages editionDefId="12" publicationDate="2019-06-06"/>
+</epaperRequest>
